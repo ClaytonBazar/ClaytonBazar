@@ -13,8 +13,6 @@
 
 
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -67,6 +65,9 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/ClaytonBazar/ClaytonBazar/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
 </div>
